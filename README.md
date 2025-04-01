@@ -1,5 +1,14 @@
-- 👋 Hi, This is the official back-end documentation of FPC-TV.
-- 👀 We are all interested in expanding our reach.
-- 🌱 We are currently experiencing a change in command, our new president elect will be taking over.
-- 💞️ We are looking to collaborate with small businesses in the area.
-- 📫 You can reach us through direct email that will be set up with-in the next week.
+# Updates - Version 25.4.1
+Publication under jurisdiction of club president.
+
+## Files
+Imported 11 documents `[.docx & .xlsx]`
+File Folders:
+1. Events
+2. Head Production Team
+3. Job Trackers
+4. Meeting Adgendas
+
+## Current working projects `1`
+***3/26/2025***
+FPC-TV will be collaborating with the DECA club to get promotional content made for the core class and club next year.
