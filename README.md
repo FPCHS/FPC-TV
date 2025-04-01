@@ -1,0 +1,5 @@
+- 👋 Hi, This is the official back-end documentation of FPC-TV.
+- 👀 We are all interested in expanding our reach.
+- 🌱 We are currently experiencing a change in command, our new president elect will be taking over.
+- 💞️ We are looking to collaborate with small businesses in the area.
+- 📫 You can reach us through direct email that will be set up with-in the next week.
